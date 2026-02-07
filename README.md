@@ -1,2 +1,2 @@
-# week1-setup-Sabrina-Allen
+# week1-setup-sabrina-allen
 Codespace
